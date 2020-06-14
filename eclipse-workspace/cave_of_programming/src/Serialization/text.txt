@@ -1,0 +1,5 @@
+Serialization we convert object and turn
+ to binary code form into binary data
+
+deserialization it mean to take a binary
+ code and back into to object 
